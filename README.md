@@ -1,5 +1,7 @@
 # Food_ordering_App
 
+# Here are some examples
+
 
 ---------------  Welcome to the food ordering app!  ---------------
 
@@ -7,9 +9,11 @@
 1. Admin 
 2. user 
 3. Exit 
-1
+
 
  **** Enter your preference:  ****
+ 
+ **For Admin**
  
 1. Add new food item 
 2. Edit a food item 
@@ -17,42 +21,28 @@
 4. Show all food items 
 5. Check a food item using food_id 
 6. Exit 
-4
- 
 
-  ****  Food List  ****  
+**For New User**
 
+Are you a new user? ('Y' or 'N')Y
+Register Your account!
 
-food_id 1
-=========
-name  --  Tandoori Chicken
-price  --  240
-quantity_type  --  pieces
-quantity  --  4
-discount  --  40
-stock  --  25
-food_id 2
-=========
-name  --  Vegan Burger
-price  --  320
-quantity_type  --  pieces
-quantity  --  1
-discount  --  40
-stock  --  25
-food_id 3
-=========
-name  --  Truffle Cake
-price  --  900
-quantity_type  --  kg
-quantity  --  1.0
-discount  --  50
-stock  --  25
+Enter you Full Name: abc
 
- **** Enter your preference:  ****
- 
-1. Add new food item 
-2. Edit a food item 
-3. Remove a food item 
-4. Show all food items 
-5. Check a food item using food_id 
-6. Exit 
+Enter you phone number: 123456
+
+Enter you email address: abc@yopmail.com
+
+Enter your address: India
+
+Enter your username: Abc
+
+Enter your password: 123
+
+  ****  Congratulations!! ****  
+
+ You have successfully registered your account 
+
+Please Log in to your account
+
+Enter your username: 
